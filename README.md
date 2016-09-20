@@ -1,2 +1,11 @@
-# Chromebit
 Chromebit
+=========
+
+Chromebit
+
+
+License
+-------
+
+MIT License
+
